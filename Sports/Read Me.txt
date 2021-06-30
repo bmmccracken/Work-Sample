@@ -1,8 +1,0 @@
-These are samples of work I have done 
-with the Alabama Baseball Team. All of
-the IPYNB files require a Trackman file
-to use. Due to the sensitivity of the data
-I will not provide a file to test with at
-this time, but am looking to adapt these versions
-of the code to statcast data for you to see the
-end product of the code.

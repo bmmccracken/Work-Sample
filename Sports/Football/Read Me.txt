@@ -1,0 +1,8 @@
+Still a work in progress. I wanted to play around
+with pulling play-by-play data from ESPN and create
+a postgame evaluation to work on my data collection
+and data visualization in python.
+
+Note: I may have this code collect and clean the data
+and then feed it to Tableau, where I am more confident
+in my visualization skills.

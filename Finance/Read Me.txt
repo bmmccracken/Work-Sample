@@ -1,0 +1,6 @@
+This file is still a work in progress. The end goal is to 
+have a set of code that allows me to input a stock's name 
+and return crtitical information pulled from Yahoo Finance 
+and what percentage of my portfolio should be dedicated to 
+that stock given my current portfolio and diversification 
+criteria I set.

@@ -1,0 +1,11 @@
+This code is designed to take a players:
+name, start date, and end date
+
+The goal of this code is to provide a focused
+look at a players performance in a given time
+period using statcast data. While statcast does
+provide a lot of this information already, I 
+thought it would be good practice using:
+ - baseball_scraper
+ - command line style functions
+ - baseball visualiztion
